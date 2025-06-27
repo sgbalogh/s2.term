@@ -2,6 +2,8 @@
 
 Demo of a durable, log-structured [pseudo-terminal](https://en.wikipedia.org/wiki/Pseudoterminal) implemented over [S2](https://s2.dev) streams.
 
+(See also the [blog post](https://s2.dev/blog/s2-term) about this.)
+
 ![demo](./assets/demo.gif)
 
 ## About
